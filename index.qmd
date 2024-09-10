@@ -1,0 +1,31 @@
+---
+title: "Sarah E Schwartz"
+subtitle: "Statistician"
+image: images/hex_SSS.png
+about: 
+    template: solana
+    image-shape: rectangle
+    image-width: 15em
+---
+
+# Current
+
+Director, The Statistical Consulting Studio
+
+Assistant Research Professor, Psychology Department
+
+Utah State University
+
+# Education
+
+-   PhD in Statistics, 2017
+
+    Utah State University
+
+-   MS in Statistics, 2006
+
+    Utah State University
+
+-   BS Math & Chem Teaching, 2000
+
+    Utah State University

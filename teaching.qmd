@@ -1,0 +1,30 @@
+---
+title: "Teaching"
+image: images/hex_manyR.png
+about: 
+    template: solana
+    image-shape: rectangle
+    image-width: 15em
+---
+
+# Philosophy
+
+# Current Graduate Courses
+
+## PSY 6600 Foundations
+
+## PSY 7610 Regression
+
+## PSY 7650 Multilevel
+
+# Past Undergraduate Courses
+
+## PSY 3010
+
+## STAT 2000
+
+## STAT 1040
+
+## MATH 1050
+
+## MATH 1010

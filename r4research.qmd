@@ -1,0 +1,15 @@
+---
+title: "Using R for Research"
+author: "Dr. Sarah E Schwartz"
+image: images/hex_manyR.png
+about: 
+    template: solana
+    image-shape: rectangle
+    image-width: 15em
+---
+
+# Fall 2024 - Intro Level
+
+Wednesdays 1:30pm - DE 109
+
+## 
