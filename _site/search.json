@@ -204,5 +204,27 @@
       "TEACHING",
       "Overview"
     ]
+  },
+  {
+    "objectID": "r4research.html#introduction",
+    "href": "r4research.html#introduction",
+    "title": "Using R for Research",
+    "section": "INTRODUCTION",
+    "text": "INTRODUCTION\n\nLecture Slides\n\nGetting Started with R\n\n\n\nYouTube Videos\n\nR lingo, nouns (objects/data) and verbs (actions/functions) (40 min)\nR pipelines, linking/chaining steps (18 min)\nIntro to Tidy R (79 min)\n\n\n\nExample\nBlank R Notebook: Supplement skeleton\nExample R Notebook: Appendix: Example Weightloss\nStyle file: apa7.csl",
+    "crumbs": [
+      "TEACHING",
+      "Using R for Research"
+    ]
+  },
+  {
+    "objectID": "r4research.html#sessions",
+    "href": "r4research.html#sessions",
+    "title": "Using R for Research",
+    "section": "",
+    "text": "Wednesdays 1:30pm - DE 109",
+    "crumbs": [
+      "TEACHING",
+      "Using R for Research"
+    ]
   }
 ]
